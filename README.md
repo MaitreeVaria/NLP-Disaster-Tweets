@@ -1,11 +1,9 @@
 # NLP-Disaster-Tweets
-Creating a README file for a Jupyter Notebook (`.ipynb`) on GitHub isn't standard practice, as GitHub primarily displays Markdown files for repository descriptions. However, you can include a Markdown README alongside your Jupyter Notebook. Here's a sample README.md for your "NLP-Disaster-Tweets" Jupyter Notebook:
+
+This Jupyter Notebook explores the use of Natural Language Processing (NLP) techniques to analyze tweets related to disasters. NLP plays a crucial role in understanding the sentiment and content of tweets during emergency situations.
 
 **Note:** This notebook is a part of a Cousera course - [Introduction to Deep Learning : Week 4](https://www.coursera.org/learn/introduction-to-deep-learning-boulder)
 
-# NLP-Disaster-Tweets
-
-This Jupyter Notebook explores the use of Natural Language Processing (NLP) techniques to analyze tweets related to disasters. NLP plays a crucial role in understanding the sentiment and content of tweets during emergency situations.
 
 In this notebook, we will:
 
